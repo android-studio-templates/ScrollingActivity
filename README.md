@@ -1,0 +1,3 @@
+# ScrollingActivity
+
+### Android Studio Template
